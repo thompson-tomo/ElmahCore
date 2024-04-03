@@ -13,6 +13,7 @@
     <Description>ELMAH for ASP.NET Core</Description>
     <RootNamespace>ElmahCore.MySql</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
